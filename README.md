@@ -13,7 +13,7 @@ Notation: :camera_flash: Single Image, :video_camera: Video-based
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [:snowflake: Snow Removal / Desnowing / De-snowing](#snowflake-snow-removal--desnowing--de-snowing)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [All-in-One Adverse Weather Removal](#all-in-one-adverse-weather-removal)
 
-- **[High-levelVision](#high-level-vision)**
+- **[High-level Vision](#high-level-vision)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Object Detection](#object-detection)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Semantic Segmentation](#semantic-segmentation)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Object Tracking](#object-tracking)
