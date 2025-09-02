@@ -56,7 +56,7 @@ The survey on the computer vision works under the adverse weather conditions
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:droplet: Raindrop Removal](#droplet-raindrop-removal)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [:snowflake: Snow Removal / Desnowing / De-snowing](#snowflake-snow-removal--desnowing--de-snowing)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [All-in-One (AiO) Adverse Weather Removal](#all-in-one-aio-adverse-weather-removal)
-
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [Image Synthesis](#image-synthesis)
 - **[High-level Vision](#high-level-vision)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Object Detection](#object-detection)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Semantic Segmentation](#semantic-segmentation)
