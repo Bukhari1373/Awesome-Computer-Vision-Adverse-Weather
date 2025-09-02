@@ -1,0 +1,34 @@
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+/* 添加自动编号样式 */
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+ numbering {
+  counter-reset: numbering;
+  margin-left: 20px;
+}
+
+ numbering:before {
+  counter-increment: numbering;
+  content: counter(numbering) ". ";
+}
+</style>
