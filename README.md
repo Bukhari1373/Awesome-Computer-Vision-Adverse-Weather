@@ -3,37 +3,45 @@ The survey on the computer vision works under the adverse weather conditions
 
 ## :clipboard: Notations and Abbreviation
 
-:camera:: Single Image
-:video_camera:: Video-based
-:artificial_satellite:: Remote Sensing Data
-:bar_chart:: Benchmark
+| Emoji | Description |
+|:-----:|:-----------:|
+|:camera:| Single Image |
+|:video_camera:| Video-based |
+|:artificial_satellite:| Remote Sensing Data |
+|:bar_chart:| Benchmark |
 
-<details>
+<details open="true">
 <summary><strong>Venue Abbreviation</strong> (click to expand) </summary>
 
 - Conference:
-<br>CVPR: Computer Vision and Pattern Recognition
-<br>ICCV: International Conference on Computer Vision
-<br>ECCV: European Conference on Computer Vision
-<br>AAAI: AAAI Conference on Artificial Intelligence
-<br>ICASSP: IEEE International Conference on Acoustics, Speech, and Signal Processing
-<br>WACV: IEEE Winter Conference on Applications of Computer Vision
-<br>ICAR: IEEE International Conference on Robotics and Automation
-<br>ACCV: Asian Conference on Computer Vision
-<br>ACPR: Asian Conference on Pattern Recognition
-<br>ISM: IEEE International Symposium on Multimedia
-<br>ICIP: IEEE International Conference on Image Processing
-<br>CVM: Computational Visual Media
+  
+| Abbreviation | Full Name |
+|:------------:|:---------:|
+|CVPR | Computer Vision and Pattern Recognition |
+|ICCV | International Conference on Computer Vision |
+|ECCV | European Conference on Computer Vision |
+|AAAI | AAAI Conference on Artificial Intelligence |
+|ICASSP | IEEE International Conference on Acoustics, Speech, and Signal Processing |
+|WACV | IEEE Winter Conference on Applications of Computer Vision |
+|ICAR | IEEE International Conference on Robotics and Automation |
+|ACCV | Asian Conference on Computer Vision |
+|ACPR | Asian Conference on Pattern Recognition |
+|ISM | IEEE International Symposium on Multimedia |
+|ICIP | IEEE International Conference on Image Processing |
+|CVM | Computational Visual Media |
 
 - Journal:
-<br>TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence
-<br>IJCV: International Journal of Computer Vision
-<br>TIP: IEEE Transactions on Image Processing
-<br>TCSVT: IEEE Transactions on Circuits and Systems for Video Technology
-<br>TIM: IEEE Transactions on Instrumentation and Measurement
-<br>TCI: IEEE Transactions on Computational Imaging
-<br>OE: Optical Engineering
-<br>Opt. Express: Optics Express
+  
+| Abbreviation | Full Name |
+|:------------:|:---------:|
+|TPAMI | IEEE Transactions on Pattern Analysis and Machine Intelligence |
+|IJCV | International Journal of Computer Vision |
+|TIP | IEEE Transactions on Image Processing |
+|TCSVT | IEEE Transactions on Circuits and Systems for Video Technology |
+|TIM | IEEE Transactions on Instrumentation and Measurement |
+|TCI | IEEE Transactions on Computational Imaging |
+|OE | Optical Engineering |
+|Opt. Express | Optics Express |
 </details>
 
 ## 🧭 Navigation
@@ -44,7 +52,7 @@ The survey on the computer vision works under the adverse weather conditions
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:umbrella: Rain Streak Removal](#umbrella-rain-streak-removal)
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:droplet: Raindrop Removal](#droplet-raindrop-removal)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [:snowflake: Snow Removal / Desnowing / De-snowing](#snowflake-snow-removal--desnowing--de-snowing)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [All-in-One Adverse Weather Removal](#all-in-one-adverse-weather-removal)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [All-in-One (AiO) Adverse Weather Removal](#all-in-one-aio-adverse-weather-removal)
 
 - **[High-level Vision](#high-level-vision)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Object Detection](#object-detection)
@@ -61,57 +69,95 @@ The survey on the computer vision works under the adverse weather conditions
 
 ## :fog: Haze removal / Fog Removal / Dehazing / Defogging
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Data | Link | Code |
 |-------|-------|------|------|------|------|
+</details>
 
 ## :cloud_with_rain: Rain removal / Deraining / De-raining
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Data | Link | Code |
 |-------|-------|------|------|------|------|
+</details>
 
 ### :umbrella: Rain Streak Removal
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Data | Link | Code |
 |-------|-------|------|------|------|------|
+</details>
 
 ### :droplet: Raindrop Removal
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Data | Link | Code |
 |-------|-------|------|------|------|------|
+</details>
 
 ## :snowflake: Snow Removal / Desnowing / De-snowing
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Data | Link | Code |
 |-------|-------|------|------|------|------|
+</details>
 
 ## All-in-One (AiO) Adverse Weather Removal
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Data | Link | Code |
 |-------|-------|------|------|------|------|
 | All in One Bad Weather Removal Using Architectural Search<br><sub>Ruoteng Li, Robby T. Tan, Loong-Fah Cheong</sub> | CVPR | 2020 | :camera: | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) |  |
+</details>
 
 # High-level Vision
 
 ## Object Detection
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|-------|------|---------|------|------|------|
 | Three-Channel Infrared Imaging for Object Detection in Haze<br><sub>Beinan Yu, Yifan Chen, Si-Yuan Cao, Hui-Liang Shen, Junwei Li</sub> | TIM | 2022 | Haze | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/9745969) |  |
 | Detection-Friendly Dehazing: Object Detection in Real-World Hazy Scenes<br><sub>Chengyang Li; Heng Zhou; Yang Liu; Caidong Yang; Yongqiang Xie; Zhongbo Li</sub> | TPAMI | 2023 | Haze | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/10012056) | 
 | Unified Density-Aware Image Dehazing and Object Detection in Real-World Hazy Scenes<br><sub>Zhengxi Zhang⋆, Liang Zhao⋆, Yunan Liu, Shanshan Zhang, Jian Yan</sub> | ACCV | 2020 | Haze | :camera: | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_Unified_Density-Aware_Image_Dehazing_and_Object_Detection_in_Real-World_Hazy_ACCV_2020_paper.pdf) | [Code](https://github.com/xiqi98/UDnD) |
 |HazyDet: Open-Source Benchmark for Drone-View Object Detection with Depth-Cues in Hazy Scenes<br><sub>Changfeng Feng, Zhenyuan Chen, Xiang Li, Chunping Wang, Jian Yang, Ming-Ming Cheng, Yimian Dai, Qiang Fu</sub> | ArXiv | 2024 | Haze | 📷 :bar_chart: | [Paper](https://arxiv.org/abs/2409.19833) | [Code](https://github.com/GrokCV/HazyDet) |
+</details>
 
 ## Semantic Segmentation
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|-------|------|---------|------|------|------|
+</details>
 
 ## Object Tracking
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|-------|------|---------|------|------|------|
+</details>
 
 ## Depth Estimation
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
 
 | Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|-------|------|---------|------|------|------|
@@ -137,12 +183,16 @@ The survey on the computer vision works under the adverse weather conditions
 |Unsupervised Monocular Depth Estimation for Foggy Images with Domain Separation and Self-Depth Domain Conversion<br><sub>Fuyang Liu, Jianjun Li</sub> | CVM | 2025 | 🌫️ | 📷 | [Paper](https://link.springer.com/chapter/10.1007/978-981-96-5812-1_21) | |
 |Depth from phasor distortions in fog<br><sub>Takeshi Muraji, Kenichiro Tanaka, Takuya Funatomi, Yasuhiro Mukaigawa</sub> | Optics Express| 2019 | :fog: | 📷 | [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-13-18858&id=414675) | [Code]() |
 |Gated2Gated: Self-Supervised Depth Estimation from Gated Images<br><sub></sub> | CVPR | 2022 | :fog:❄️ | 📷 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Walia_Gated2Gated_Self-Supervised_Depth_Estimation_From_Gated_Images_CVPR_2022_paper.html) | [Code](https://github.com/princeton-computational-imaging/Gated2Gated) |
+</details>
 
 ## Autonomous Driving
 
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
 | Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|-------|------|---------|------|------|------|
-
+</details>
 
 # Benchmark
 
