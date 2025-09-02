@@ -11,7 +11,7 @@ The survey on the computer vision works under the adverse weather conditions
 | :night_with_stars: | Night |
 |:bar_chart:| Benchmark |
 
-<details open="true">
+<details>
 <summary><strong>Venue Abbreviation</strong> (click to expand) </summary>
 
 - Conference:
@@ -31,6 +31,7 @@ The survey on the computer vision works under the adverse weather conditions
 |ICIP | IEEE International Conference on Image Processing |
 |CVM | Computational Visual Media |
 |ICTC | International Conference on Information and Communication Technology Convergence |
+|ITSC | IEEE International Intelligent Transportation Systems Conference |
 
 - Journal:
   
@@ -124,6 +125,18 @@ The survey on the computer vision works under the adverse weather conditions
 | All in One Bad Weather Removal Using Architectural Search<br><sub>Ruoteng Li, Robby T. Tan, Loong-Fah Cheong</sub> | CVPR | 2020 | :camera: | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) |  |
 </details>
 
+## Image Synthesis 
+
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
+| Paper | Venue | Year | Weather | Data | Link | Code |
+|-------|-------|------|---------|------|------|------|
+|Let it Snow: On the Synthesis of Adverse Weather Image Data<br><sub>Thomas Rothmeier; Werner Huber</sub> | ITSC | 2021 | 🌫️🌧️❄️ | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/9565008) | |
+</details>
+
+
+
 # High-level Vision
 
 ## Object Detection
@@ -199,12 +212,10 @@ The survey on the computer vision works under the adverse weather conditions
 |-------|-------|------|---------|------|------|------|
 </details>
 
-## Image Synthesis 
-
-Let it Snow: On the Synthesis of Adverse Weather Image Data
 
 # Benchmark
 
 D-hazy: A dataset to evaluate quantitatively dehazing algorithms
+
 
 |<br><sub></sub> | | | | | [Paper]() | [Code]() |
