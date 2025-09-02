@@ -93,8 +93,8 @@ The survey on the computer vision works under the adverse weather conditions
 |Depth Estimation for Hazy Images Using Deep Learning<br><sub>Laksmita Rahadianti; Fumihiko Sakaue; Jun Sato</sub> | ACPR | 2017 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/8575830) | |
 |CNN-Based Simultaneous Dehazing and Depth Estimation<br><sub>Byeong-Uk Lee; Kyunghyun Lee; Jean Oh; In So Kweon</sub> | ICRA | 2020 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/9197358) | |
 |S2DNet: Depth Estimation From Single Image and Sparse Samples<br><sub>Praful Hambarde; Subrahmanyam Murala</sub> | TCI | 2020 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/9040600) | |
-|Depth-Centric Dehazing and Depth-Estimation from Real-World Hazy Driving Video<br><sub>Junkai Fan, Kun Wang, Zhiqiang Yan, Xiang Chen, Shangbing Gao, Jun Li, Jian Yang</sub> | AAAI | 2025 | Haze | 📷 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32291) | Code(https://github.com/fanjunkai1/DCL) |
+|Depth-Centric Dehazing and Depth-Estimation from Real-World Hazy Driving Video<br><sub>Junkai Fan, Kun Wang, Zhiqiang Yan, Xiang Chen, Shangbing Gao, Jun Li, Jian Yang</sub> | AAAI | 2025 | Haze | 📷 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32291) | [Code](https://github.com/fanjunkai1/DCL) |
 |Combining semantic scene priors and haze removal for single image depth estimation<br><sub>Ke Wang; Enrique Dunn; Joseph Tighe; Jan-Michael Frahm</sub> | WACV | 2014 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/6836021) | |
 
 
-| <br><sub></sub> | | | | | [Paper]() | Code() |
+| <br><sub></sub> | | | | | [Paper]() | [Code]() |
