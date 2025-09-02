@@ -1,7 +1,12 @@
 # Awesome-Computer-Vision-Adverse-Weather
 The survey on the computer vision works under the adverse weather conditions
 
-Notation: :camera_flash: Single Image, :video_camera: Video-based
+Notation: :camera: Single Image, :video_camera: Video-based
+
+Venue Abbreviation:
+
+CVPR: Computer Vision and Pattern Recognition
+IEEE TIM: IEEE Transactions on Instrumentation and Measurement
 
 ## 🧭 Navigation
 
@@ -53,6 +58,7 @@ Notation: :camera_flash: Single Image, :video_camera: Video-based
 
 | Paper | Avenue | Year | Data | Link | Code |
 |-------|--------|------|------|------|------|
+| All in One Bad Weather Removal Using Architectural Search<br><sub>Ruoteng Li, Robby T. Tan, Loong-Fah Cheong</sub> | CVPR | 2020 | :camera: | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) |  |
 
 # High-level Vision
 
@@ -60,6 +66,7 @@ Notation: :camera_flash: Single Image, :video_camera: Video-based
 
 | Paper | Avenue | Year | Weather | Data | Link | Code |
 |-------|--------|------|---------|------|------|------|
+| Three-Channel Infrared Imaging for Object Detection in Haze<br><sub>Beinan Yu, Yifan Chen, Si-Yuan Cao, Hui-Liang Shen, Junwei Li</sub> | IEEE TIM | 2022 | Haze | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/9745969) |  |
 
 ## Semantic Segmentation
 
