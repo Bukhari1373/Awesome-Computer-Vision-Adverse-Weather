@@ -9,7 +9,9 @@ The survey on the computer vision works under the adverse weather conditions
 ### Venue Abbreviation
 
 <br>CVPR: Computer Vision and Pattern Recognition
-<br>IEEE TIM: IEEE Transactions on Instrumentation and Measurement
+<br>TIM: IEEE Transactions on Instrumentation and Measurement
+<br>TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence
+<br>WACV: IEEE Winter Conference on Applications of Computer Vision
 
 ## 🧭 Navigation
 
@@ -69,7 +71,9 @@ The survey on the computer vision works under the adverse weather conditions
 
 | Paper | Avenue | Year | Weather | Data | Link | Code |
 |-------|--------|------|---------|------|------|------|
-| Three-Channel Infrared Imaging for Object Detection in Haze<br><sub>Beinan Yu, Yifan Chen, Si-Yuan Cao, Hui-Liang Shen, Junwei Li</sub> | IEEE TIM | 2022 | Haze | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/9745969) |  |
+| Three-Channel Infrared Imaging for Object Detection in Haze<br><sub>Beinan Yu, Yifan Chen, Si-Yuan Cao, Hui-Liang Shen, Junwei Li</sub> | TIM | 2022 | Haze | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/9745969) |  |
+| Detection-Friendly Dehazing: Object Detection in Real-World Hazy Scenes<br><sub>Chengyang Li; Heng Zhou; Yang Liu; Caidong Yang; Yongqiang Xie; Zhongbo Li</sub> | TPAMI | 2023 | Haze | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/10012056) | 
+| Unified Density-Aware Image Dehazing and Object Detection in Real-World Hazy Scenes<br><sub>Zhengxi Zhang⋆, Liang Zhao⋆, Yunan Liu, Shanshan Zhang, Jian Yan</sub> | ACCV | 2020 | Haze | :camera: | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_Unified_Density-Aware_Image_Dehazing_and_Object_Detection_in_Real-World_Hazy_ACCV_2020_paper.pdf) | [Code](https://github.com/xiqi98/UDnD) |
 
 ## Semantic Segmentation
 
@@ -85,3 +89,12 @@ The survey on the computer vision works under the adverse weather conditions
 
 | Paper | Avenue | Year | Weather | Data | Link | Code |
 |-------|--------|------|---------|------|------|------|
+|DEHRFormer: Real-Time Transformer for Depth Estimation and Haze Removal from Varicolored Haze Scenes<br><sub>Sixiang Chen; Tian Ye; Jun Shi; Yun Liu; JingXia Jiang; Erkang Chen</sub> | ICASSP | 2023 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/10096828) | |
+|Depth Estimation for Hazy Images Using Deep Learning<br><sub>Laksmita Rahadianti; Fumihiko Sakaue; Jun Sato</sub> | ACPR | 2017 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/8575830) | |
+|CNN-Based Simultaneous Dehazing and Depth Estimation<br><sub>Byeong-Uk Lee; Kyunghyun Lee; Jean Oh; In So Kweon</sub> | ICRA | 2020 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/9197358) | |
+|S2DNet: Depth Estimation From Single Image and Sparse Samples<br><sub>Praful Hambarde; Subrahmanyam Murala</sub> | TCI | 2020 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/9040600) | |
+|Depth-Centric Dehazing and Depth-Estimation from Real-World Hazy Driving Video<br><sub>Junkai Fan, Kun Wang, Zhiqiang Yan, Xiang Chen, Shangbing Gao, Jun Li, Jian Yang</sub> | AAAI | 2025 | Haze | 📷 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32291) | Code(https://github.com/fanjunkai1/DCL) |
+|Combining semantic scene priors and haze removal for single image depth estimation<br><sub>Ke Wang; Enrique Dunn; Joseph Tighe; Jan-Michael Frahm</sub> | WACV | 2014 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/6836021) | |
+
+
+| <br><sub></sub> | | | | | [Paper]() | Code() |
