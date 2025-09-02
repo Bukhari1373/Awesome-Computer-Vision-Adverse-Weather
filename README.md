@@ -8,6 +8,7 @@ The survey on the computer vision works under the adverse weather conditions
 |:camera:| Single Image |
 |:video_camera:| Video-based |
 |:artificial_satellite:| Remote Sensing Data |
+| :night_with_stars: | Night |
 |:bar_chart:| Benchmark |
 
 <details open="true">
@@ -29,6 +30,7 @@ The survey on the computer vision works under the adverse weather conditions
 |ISM | IEEE International Symposium on Multimedia |
 |ICIP | IEEE International Conference on Image Processing |
 |CVM | Computational Visual Media |
+|ICTC | International Conference on Information and Communication Technology Convergence |
 
 - Journal:
   
@@ -183,6 +185,9 @@ The survey on the computer vision works under the adverse weather conditions
 |Unsupervised Monocular Depth Estimation for Foggy Images with Domain Separation and Self-Depth Domain Conversion<br><sub>Fuyang Liu, Jianjun Li</sub> | CVM | 2025 | 🌫️ | 📷 | [Paper](https://link.springer.com/chapter/10.1007/978-981-96-5812-1_21) | |
 |Depth from phasor distortions in fog<br><sub>Takeshi Muraji, Kenichiro Tanaka, Takuya Funatomi, Yasuhiro Mukaigawa</sub> | Optics Express| 2019 | :fog: | 📷 | [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-13-18858&id=414675) | [Code]() |
 |Gated2Gated: Self-Supervised Depth Estimation from Gated Images<br><sub>Amanpreet Walia, Stefanie Walz, Mario Bijelic, Fahim Mannan, Frank Julca-Aguilar, Michael Langer, Werner Ritter, Felix Heide</sub> | CVPR | 2022 | :fog:❄️ | 📷 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Walia_Gated2Gated_Self-Supervised_Depth_Estimation_From_Gated_Images_CVPR_2022_paper.html) | [Code](https://github.com/princeton-computational-imaging/Gated2Gated) |
+
+|Robust Monocular Depth Estimation under Challenging Conditions<br><sub>Stefano Gasperini, Nils Morbitzer, HyunJun Jung, Nassir Navab, Federico Tombari</sub> | ICCV | 2023 | 🌧️🌃 | 📷 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gasperini_Robust_Monocular_Depth_Estimation_under_Challenging_Conditions_ICCV_2023_paper.html) | [Code](https://md4all.github.io) |
+|Empirical Study: Monocular Depth Estimation from RGB, NIR, Thermal Image in Adverse Weather Conditions<br><sub>Ukcheol Shin; Soonmin Hwang; Jean Oh</sub> | ICTC | 2023 | 🌧️❄️🌃 | | [Paper](https://ieeexplore.ieee.org/abstract/document/10393306) | |
 </details>
 
 ## Autonomous Driving
@@ -193,6 +198,10 @@ The survey on the computer vision works under the adverse weather conditions
 | Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|-------|------|---------|------|------|------|
 </details>
+
+## Image Synthesis 
+
+Let it Snow: On the Synthesis of Adverse Weather Image Data
 
 # Benchmark
 
