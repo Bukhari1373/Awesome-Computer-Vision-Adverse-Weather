@@ -8,10 +8,23 @@ The survey on the computer vision works under the adverse weather conditions
 
 ### Venue Abbreviation
 
+#### Conference
 <br>CVPR: Computer Vision and Pattern Recognition
-<br>TIM: IEEE Transactions on Instrumentation and Measurement
-<br>TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence
+<br>ICCV: International Conference on Computer Vision
+<br>ECCV: European Conference on Computer Vision
+<br>AAAI: AAAI Conference on Artificial Intelligence
+<br>ICASSP: IEEE International Conference on Acoustics, Speech, and Signal Processing
 <br>WACV: IEEE Winter Conference on Applications of Computer Vision
+<br>ICAR: IEEE International Conference on Robotics and Automation
+<br>ACCV: Asian Conference on Computer Vision
+<br>ACPR: Asian Conference on Pattern Recognition
+
+#### Journal
+<br>TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence
+<br>IJCV: International Journal of Computer Vision
+<br>TIP: IEEE Transactions on Image Processing
+<br>TIM: IEEE Transactions on Instrumentation and Measurement
+<br>TCI: IEEE Transactions on Computational Imaging
 
 ## 🧭 Navigation
 
@@ -36,32 +49,32 @@ The survey on the computer vision works under the adverse weather conditions
 
 ## :fog: Haze removal / Fog Removal / Dehazing / Defogging
 
-| Paper | Avenue | Year | Data | Link | Code |
+| Paper | Venue | Year | Data | Link | Code |
 |-------|--------|------|------|------|------|
 
 ## :cloud_with_rain: Rain removal / Deraining / De-raining
 
-| Paper | Avenue | Year | Data | Link | Code |
+| Paper | Venue | Year | Data | Link | Code |
 |-------|--------|------|------|------|------|
 
 ### :umbrella: Rain Streak Removal
 
-| Paper | Avenue | Year | Data | Link | Code |
+| Paper | Venue | Year | Data | Link | Code |
 |-------|--------|------|------|------|------|
 
 ### :droplet: Raindrop Removal
 
-| Paper | Avenue | Year | Data | Link | Code |
+| Paper | Venue | Year | Data | Link | Code |
 |-------|--------|------|------|------|------|
 
 ## :snowflake: Snow Removal / Desnowing / De-snowing
 
-| Paper | Avenue | Year | Data | Link | Code |
+| Paper | Venue | Year | Data | Link | Code |
 |-------|--------|------|------|------|------|
 
 ## All-in-One Adverse Weather Removal
 
-| Paper | Avenue | Year | Data | Link | Code |
+| Paper | Venue | Year | Data | Link | Code |
 |-------|--------|------|------|------|------|
 | All in One Bad Weather Removal Using Architectural Search<br><sub>Ruoteng Li, Robby T. Tan, Loong-Fah Cheong</sub> | CVPR | 2020 | :camera: | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) |  |
 
@@ -69,7 +82,7 @@ The survey on the computer vision works under the adverse weather conditions
 
 ## Object Detection
 
-| Paper | Avenue | Year | Weather | Data | Link | Code |
+| Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|--------|------|---------|------|------|------|
 | Three-Channel Infrared Imaging for Object Detection in Haze<br><sub>Beinan Yu, Yifan Chen, Si-Yuan Cao, Hui-Liang Shen, Junwei Li</sub> | TIM | 2022 | Haze | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/9745969) |  |
 | Detection-Friendly Dehazing: Object Detection in Real-World Hazy Scenes<br><sub>Chengyang Li; Heng Zhou; Yang Liu; Caidong Yang; Yongqiang Xie; Zhongbo Li</sub> | TPAMI | 2023 | Haze | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/10012056) | 
@@ -77,17 +90,17 @@ The survey on the computer vision works under the adverse weather conditions
 
 ## Semantic Segmentation
 
-| Paper | Avenue | Year | Weather | Data | Link | Code |
+| Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|--------|------|---------|------|------|------|
 
 ## Object Tracking
 
-| Paper | Avenue | Year | Weather | Data | Link | Code |
+| Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|--------|------|---------|------|------|------|
 
 ## Depth Estimation
 
-| Paper | Avenue | Year | Weather | Data | Link | Code |
+| Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|--------|------|---------|------|------|------|
 |DEHRFormer: Real-Time Transformer for Depth Estimation and Haze Removal from Varicolored Haze Scenes<br><sub>Sixiang Chen; Tian Ye; Jun Shi; Yun Liu; JingXia Jiang; Erkang Chen</sub> | ICASSP | 2023 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/10096828) | |
 |Depth Estimation for Hazy Images Using Deep Learning<br><sub>Laksmita Rahadianti; Fumihiko Sakaue; Jun Sato</sub> | ACPR | 2017 | Haze | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/8575830) | |
