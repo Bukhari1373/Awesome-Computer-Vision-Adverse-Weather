@@ -1,12 +1,12 @@
 # Awesome-Computer-Vision-Adverse-Weather
 The survey on the computer vision works under the adverse weather conditions
 
-Notation: :camera: Single Image, :video_camera: Video-based
+Notation: :camera: Single Image, :video_camera: Video-based, :artificial_satellite: Remote Sensing Data
 
 Venue Abbreviation:
 
-CVPR: Computer Vision and Pattern Recognition
-IEEE TIM: IEEE Transactions on Instrumentation and Measurement
+<br>CVPR: Computer Vision and Pattern Recognition
+<br>IEEE TIM: IEEE Transactions on Instrumentation and Measurement
 
 ## 🧭 Navigation
 
