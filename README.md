@@ -6,10 +6,17 @@ Notation: :camera_flash: Single Image, :video_camera: Video-based
 ## 🧭 Navigation
 
 - **[Low-level Vision](#low-level-vision)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [:fog: Haze removal / Fog Removal / Dehazing / Defogging](#fog-haze-removal--fog-removal--dehazing--defogging) | [:cloud_with_rain: Rain removal / Deraining / De-raining](#cloud_with_rain-rain-removal--deraining--de-raining) | [:snowflake: Snow Removal / Desnowing / De-snowing](#snowflake-snow-removal--desnowing--de-snowing) | [All-in-One Adverse Weather Removal](#all-in-one-adverse-weather-removal)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [:fog: Haze removal / Fog Removal / Dehazing / Defogging](#fog-haze-removal--fog-removal--dehazing--defogging)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [:cloud_with_rain: Rain removal / Deraining / De-raining](#cloud_with_rain-rain-removal--deraining--de-raining)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; <br>&nbsp;&nbsp;&nbsp;&nbsp; [Rain Streak Removal](#rain-streak-removal)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; <br>&nbsp;&nbsp;&nbsp;&nbsp; [aindrop Removal](#raindrop-removal)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [:snowflake: Snow Removal / Desnowing / De-snowing](#snowflake-snow-removal--desnowing--de-snowing)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [All-in-One Adverse Weather Removal](#all-in-one-adverse-weather-removal)
 
 - **[High-levelVision](#high-level-vision)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;[Object Detection](#object-detection) | [Semantic Segmentation](#semantic-segmentation) | [Object Tracking](#object-tracking)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;[Object Detection](#object-detection)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [Semantic Segmentation](#semantic-segmentation)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [Object Tracking](#object-tracking)
 
 - **[Citation](#citation)** | **[Contributing](#contributing)**
 
@@ -33,11 +40,6 @@ Notation: :camera_flash: Single Image, :video_camera: Video-based
 |-------|--------|------|------|------|------|
 
 ### Raindrop Removal
-
-| Paper | Avenue | Year | Data | Link | Code |
-|-------|--------|------|------|------|------|
-
-### Rain accumulation Removal
 
 | Paper | Avenue | Year | Data | Link | Code |
 |-------|--------|------|------|------|------|
