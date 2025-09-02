@@ -6,7 +6,7 @@ Notation: :camera_flash: Single Image, :video_camera: Video-based
 ## 🧭 Navigation
 
 - **[Low-level Vision](#low-level-vision)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [ :fog: Haze removal / Fog Removal / Dehazing / Defogging](#:fog:-haze-removal-/-fog-removal-/-dehazing-/-defogging) | 
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [:fog: Haze removal / Fog Removal / Dehazing / Defogging](#object-detection) | 
 
 - **[High-levelVision](#high-level-vision)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp;[Object Detection](#object-detection) | 
