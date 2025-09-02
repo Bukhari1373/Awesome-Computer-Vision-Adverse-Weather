@@ -70,3 +70,8 @@ Notation: :camera_flash: Single Image, :video_camera: Video-based
 
 | Paper | Avenue | Year | Weather | Data | Link | Code |
 |-------|--------|------|---------|------|------|------|
+
+## Depth Estimation
+
+| Paper | Avenue | Year | Weather | Data | Link | Code |
+|-------|--------|------|---------|------|------|------|
