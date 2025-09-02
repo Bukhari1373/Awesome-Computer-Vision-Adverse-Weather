@@ -3,12 +3,14 @@ The survey on the computer vision works under the adverse weather conditions
 
 ## :clipboard: Notations and Abbreviation
 
-### Data Source
-:camera: Single Image, :video_camera: Video-based, :artificial_satellite: Remote Sensing Data
+<strong>Data Source</strong>
 
-### Venue Abbreviation
+:camera:: Single Image, :video_camera:: Video-based, :artificial_satellite:: Remote Sensing Data
 
-#### Conference
+<details>
+<summary><strong>Venue Abbreviation</strong> (click to expand) </summary>
+
+- Conference:
 <br>CVPR: Computer Vision and Pattern Recognition
 <br>ICCV: International Conference on Computer Vision
 <br>ECCV: European Conference on Computer Vision
@@ -19,12 +21,13 @@ The survey on the computer vision works under the adverse weather conditions
 <br>ACCV: Asian Conference on Computer Vision
 <br>ACPR: Asian Conference on Pattern Recognition
 
-#### Journal
+- Journal:
 <br>TPAMI: IEEE Transactions on Pattern Analysis and Machine Intelligence
 <br>IJCV: International Journal of Computer Vision
 <br>TIP: IEEE Transactions on Image Processing
 <br>TIM: IEEE Transactions on Instrumentation and Measurement
 <br>TCI: IEEE Transactions on Computational Imaging
+</details>
 
 ## 🧭 Navigation
 
