@@ -76,8 +76,9 @@ The survey on the computer vision works under the adverse weather conditions
 <details open="true">
 <summary><strong>Paper List</strong> (click to expand) </summary>
   
-| Paper | Venue | Year | Data | Link | Code |
-|-------|-------|------|------|------|------|
+| Paper | Venue | Year | Data | Method | Link | Code |
+|-------|-------|------|------|--------|------|------|
+|Visibility in bad weather from a single image<br><sub>Robby T. Tan</sub> | CVPR | 2008 | 📷 | Model | [Paper](https://ieeexplore.ieee.org/abstract/document/4587643) | [Code](https://tanrobby.github.io/research/fog/index.html) |
 </details>
 
 ## :cloud_with_rain: Rain removal / Deraining / De-raining
@@ -215,14 +216,25 @@ The survey on the computer vision works under the adverse weather conditions
   
 | Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|-------|------|---------|------|------|------|
+|Dehazing-NeRF: Neural Radiance Fields from Hazy Images<br><sub>Tian Li, LU Li, Wei Wang, Zhangchi Feng</sub> | Arxiv | 2023 | 🌫️ | 📷 | [Paper](https://arxiv.org/abs/2304.11448) | [Code](https://github.com/nulllt/dehazing-nerf) |
+|DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields<br><sub>Wei-Ting Chen, Wang Yifan, Sy-Yen Kuo, Gordon Wetzstein</sub> | 3DV | 2024 | 🌫️ | 📷 | [Paper](https://arxiv.org/abs/2303.11364) | [Code](https://github.com/weitingchen83/DehazeNeRF/tree/main) |
+|RainyScape: Unsupervised Rainy Scene Reconstruction using Decoupled Neural Rendering<br><sub>Xianqiang Lyu, Hui Liu, Junhui Hou</sub> | MM | 2024 | 🌧️ | 📷 | [Paper](https://dl.acm.org/doi/10.1145/3664647.3681290) | [Code](https://github.com/lyuxianqiang/RainyScape) |
+|DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments<br><sub>Shuhong Liu, Xiang Chen, Hongming Chen, Quanfeng Xu, Mingrui Li</sub> | AAAI | 2025 | 🌧️ | 📷 | [Paper](https://arxiv.org/abs/2408.11540) | |
 |DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal<br><sub>Yunhao Li, Jing Wu, Lingzhe Zhao, Peidong Liu</sub> | ICRA | 2024 | 💧 | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/10609981/) | [Code](https://github.com/yunhaoli2020/DerainNeRF) |
 |Weathergs: 3d scene reconstruction in adverse weather conditions via gaussian splatting<br><sub>Chenghao Qian, Yuhu Guo, Wenjing Li, Gustav Markkula</sub> | ICRA | 2025 | 🌧️❄️ | 📷 | [Paper](https://arxiv.org/pdf/2412.18862) | [Code](https://github.com/Jumponthemoon/WeatherGS) |
 |ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field<br><sub>Yuan Li, Zhi-Hao Lin, David Forsyth, Jia-Bin Huang, Shenlong Wang</sub> | ICCV | 2023 | 🌫️❄️ | 📷 | [Paper](http://openaccess.thecvf.com/content/ICCV2023/html/Li_ClimateNeRF_Extreme_Weather_Synthesis_in_Neural_Radiance_Field_ICCV_2023_paper.html) | [Code](https://github.com/y-u-a-n-l-i/Climate_NeRF) |
+|Rain Rendering for Evaluating and Improving Robustness to Bad Weather<br><sub>Maxime Tremblay, Shirsendu Sukanta Halder, Raoul de Charette & Jean-François Lalonde</sub> | IJCV | 2020 | 🌧️ | 📷 | [Paper](https://link.springer.com/article/10.1007/s11263-020-01366-3) | [Code](https://github.com/astra-vision/rain-rendering) |
+|WeatherDiffusion: Weather-Guided Diffusion Model for Forward and Inverse Rendering<br><sub>Yixin Zhu, Zuoliang Zhu, Miloš Hašan, Jian Yang, Jin Xie, Beibei Wang</sub> | Arxiv | 2025 | :fog:🌧️❄️ | 📷 | [Paper](https://arxiv.org/abs/2508.06982) | |
+|Physics-Based Rendering for Improving Robustness to Rain<br><sub>Shirsendu Halder; Jean-Francois Lalonde; Raoul De Charette</sub> | ICCV | 2019 | 🌧️ | 📷 | [Paper](https://ieeexplore.ieee.org/document/9010641) | [Code](https://team.inria.fr/rits/computer-vision/weather-augment/) |
+|ScatterNeRF: Seeing Through Fog with Physically-Based Inverse Neural Rendering<br><sub>Andrea Ramazzina, Mario Bijelic, Stefanie Walz, Alessandro Sanvito, Dominik Scheuble, Felix Heide</sub> | ICCV | 2023 | :fog: | :camera: | [Paper](http://openaccess.thecvf.com/content/ICCV2023/html/Ramazzina_ScatterNeRF_Seeing_Through_Fog_with_Physically-Based_Inverse_Neural_Rendering_ICCV_2023_paper.html) | [Code](https://github.com/princeton-computational-imaging/scatternerf) |
+|ClimateGS: Real-Time Climate Simulation with 3D Gaussian Style Transfer<br><sub>Yuezhen Xie, Meiying Zhang, Qi Hao</sub> | Arxiv | 2025 | :snow: | 📷 | [Paper](https://arxiv.org/abs/2503.14845) | |
+|WeatherEdit: Controllable Weather Editing with 4D Gaussian Field<br><sub>Chenghao Qian, Wenjing Li, Yuhu Guo, Gustav Markkula</sub> | Arxiv | 2025 | :fog:🌧️❄️ | 📷 | [Paper](https://arxiv.org/abs/2505.20471) | [Code](https://github.com/Jumponthemoon/WeatherEdit) |
 </details>
 
 # Benchmark
 
 D-hazy: A dataset to evaluate quantitatively dehazing algorithms
+
 
 
 |<br><sub></sub> | | | | | [Paper]() | [Code]() |
