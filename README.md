@@ -63,7 +63,8 @@ The survey on the computer vision works under the adverse weather conditions
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Object Tracking](#object-tracking)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Depth Estimation](#depth-estimation)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Autonomous Driving](#autonomous-driving)
-
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [Scene Stylization](#scene-stylization)
+  
 - **[Citation](#citation)** | **[Contributing](#contributing)**
 
 
@@ -206,6 +207,18 @@ The survey on the computer vision works under the adverse weather conditions
 |-------|-------|------|---------|------|------|------|
 </details>
 
+
+## Scene Stylization
+
+<details open="true">
+<summary><strong>Paper List</strong> (click to expand) </summary>
+  
+| Paper | Venue | Year | Weather | Data | Link | Code |
+|-------|-------|------|---------|------|------|------|
+|DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal<br><sub>Yunhao Li, Jing Wu, Lingzhe Zhao, Peidong Liu</sub> | ICRA | 2024 | 💧 | 📷 | [Paper](https://ieeexplore.ieee.org/abstract/document/10609981/) | [Code](https://github.com/yunhaoli2020/DerainNeRF) |
+|Weathergs: 3d scene reconstruction in adverse weather conditions via gaussian splatting<br><sub>Chenghao Qian, Yuhu Guo, Wenjing Li, Gustav Markkula</sub> | ICRA | 2025 | 🌧️❄️ | 📷 | [Paper](https://arxiv.org/pdf/2412.18862) | [Code](https://github.com/Jumponthemoon/WeatherGS) |
+|ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field<br><sub>Yuan Li, Zhi-Hao Lin, David Forsyth, Jia-Bin Huang, Shenlong Wang</sub> | ICCV | 2023 | 🌫️❄️ | 📷 | [Paper](http://openaccess.thecvf.com/content/ICCV2023/html/Li_ClimateNeRF_Extreme_Weather_Synthesis_in_Neural_Radiance_Field_ICCV_2023_paper.html) | [Code](https://github.com/y-u-a-n-l-i/Climate_NeRF) |
+</details>
 
 # Benchmark
 
