@@ -37,12 +37,14 @@ The survey on the computer vision works under the adverse weather conditions
   
 | Abbreviation | Full Name |
 |:------------:|:---------:|
+|TOG | ACM Transactions on Graphics |
 |TPAMI | IEEE Transactions on Pattern Analysis and Machine Intelligence |
 |IJCV | International Journal of Computer Vision |
 |TIP | IEEE Transactions on Image Processing |
 |TCSVT | IEEE Transactions on Circuits and Systems for Video Technology |
 |TIM | IEEE Transactions on Instrumentation and Measurement |
 |TCI | IEEE Transactions on Computational Imaging |
+|ARCME | Archives of Computational Methods in Engineering |
 |OE | Optical Engineering |
 |Opt. Express | Optics Express |
 </details>
@@ -67,6 +69,11 @@ The survey on the computer vision works under the adverse weather conditions
   
 - **[Citation](#citation)** | **[Contributing](#contributing)**
 
+# Related Literature Review 
+
+| Paper | Venue | Year | Data | Link | Code |
+|-------|-------|------|------|------|------|
+|A comprehensive review of computational dehazing techniques<br><sub></sub> | ARCME | 2018 | :camera: | [Paper](https://search.proquest.com/openview/678da16cd4b56253ac84ca71f505366e/1?pq-origsite=gscholar&cbl=1486352) | |
 
 
 # Low-level Vision
@@ -78,17 +85,16 @@ The survey on the computer vision works under the adverse weather conditions
   
 | Paper | Venue | Year | Data | Method | Link | Code |
 |-------|-------|------|------|--------|------|------|
-|Visibility in bad weather from a single image<br><sub>Robby T. Tan</sub> | CVPR | 2008 | 📷 | Model | [Paper](https://ieeexplore.ieee.org/abstract/document/4587643) | [Code](https://tanrobby.github.io/research/fog/index.html) |
-|Benchmarking single-image dehazing and beyond<br><sub></sub> |  | 2018 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/8451944/) | |
-|Single image dehazing<br><sub></sub> |  | 2008 | :camera: |  | [Paper](https://dl.acm.org/doi/abs/10.1145/1360612.1360671) | |
-|Enhanced pix2pix dehazing network<br><sub></sub> |  | 2019 | :camera: |  | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Qu_Enhanced_Pix2pix_Dehazing_Network_CVPR_2019_paper.html) | |
-|A comprehensive review of computational dehazing techniques<br><sub></sub> |  | 2018 | :camera: |  | [Paper](https://search.proquest.com/openview/678da16cd4b56253ac84ca71f505366e/1?pq-origsite=gscholar&cbl=1486352) | |
+|Visibility in bad weather from a single image<br><sub>Robby T. Tan</sub> | CVPR | 2008 | 📷 | Model-based | [Paper](https://ieeexplore.ieee.org/abstract/document/4587643) | [Code](https://tanrobby.github.io/research/fog/index.html) |
+|Benchmarking single-image dehazing and beyond<br><sub>Boyi Li; Wenqi Ren; Dengpan Fu; Dacheng Tao; Dan Feng; Wenjun Zeng</sub> | TIP | 2018 | :camera:📊 |  | [Paper](https://ieeexplore.ieee.org/abstract/document/8451944/) | [Code](https://github.com/Boyiliee/RESIDE-dataset-link/tree/master) |
+|Single image dehazing<br><sub>Raanan Fattal</sub> | TOG | 2008 | :camera: | Model-based | [Paper](https://dl.acm.org/doi/abs/10.1145/1360612.1360671) | [Code](https://www.cs.huji.ac.il/w~raananf/projects/defog/) |
+|Enhanced pix2pix dehazing network<br><sub>Yanyun Qu; Yizi Chen; Jingying Huang; Yuan Xie</sub> | CVPR | 2019 | :camera: | CNN | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Qu_Enhanced_Pix2pix_Dehazing_Network_CVPR_2019_paper.html) | [Code](https://github.com/ErinChen1/EPDN) |
 |Contrastive learning for compact single image dehazing<br><sub></sub> |  | 2021 | :camera: |  | [Paper](http://openaccess.thecvf.com/content/CVPR2021/html/Wu_Contrastive_Learning_for_Compact_Single_Image_Dehazing_CVPR_2021_paper.html) | |
 |Non-local image dehazing<br><sub></sub> |  | 2016 | :camera: |  | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Berman_Non-Local_Image_Dehazing_CVPR_2016_paper.html) | |
 |Vision transformers for single image dehazing<br><sub></sub> |  | 2023 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/10076399/) | |
 |Cycle-dehaze: Enhanced cyclegan for single image dehazing<br><sub></sub> |  | 2018 | :camera: |  | [Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Engin_Cycle-Dehaze_Enhanced_CycleGAN_CVPR_2018_paper.html) | |
 |Single image dehazing by multi-scale fusion<br><sub></sub> |  | 2013 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/6514885/) | |
-|Dehazing using color-lines<br><sub></sub> |  | 2014 | :camera: |  | [Paper](https://dl.acm.org/doi/abs/10.1145/2651362) | |
+|Dehazing using color-lines<br><sub></sub> | TOG | 2014 | :camera: | Model-based | [Paper](https://dl.acm.org/doi/abs/10.1145/2651362) | [Code](https://github.com/maxcrous/dehazing_using_color_lines) |
 |A comprehensive review on analysis and implementation of recent image dehazing methods<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://link.springer.com/article/10.1007/s11831-022-09755-2) | |
 |Single image dehazing via multi-scale convolutional neural networks<br><sub></sub> |  | 2016 | :camera: |  | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_10) | |
 |A review of remote sensing image dehazing<br><sub></sub> |  | 2021 | :camera: |  | [Paper](https://www.mdpi.com/1424-8220/21/11/3926) | |
@@ -464,8 +470,69 @@ The survey on the computer vision works under the adverse weather conditions
 <details open="true">
 <summary><strong>Paper List</strong> (click to expand) </summary>
   
-| Paper | Venue | Year | Data | Link | Code |
-|-------|-------|------|------|------|------|
+| Paper | Venue | Year | Data | Method | Link | Code |
+|-------|-------|------|------|--------|------|------|
+|Attentive generative adversarial network for raindrop removal from a single image<br><sub></sub> |  | 2018 | :camera: |  | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.html) | |
+|Learning from synthetic photorealistic raindrop for single image raindrop removal<br><sub></sub> |  | 2019 | :camera: |  | [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/PBDL/Hao_Learning_From_Synthetic_Photorealistic_Raindrop_for_Single_Image_Raindrop_Removal_ICCVW_2019_paper.html) | |
+|Adherent raindrop modeling, detection and removal in video<br><sub></sub> |  | 2015 | :video_camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/7299675/) | |
+|Raindrop clarity: A dual-focused dataset for day and night raindrop removal<br><sub></sub> |  | 2024 | :camera: |  | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_1) | |
+|Raingan: Unsupervised raindrop removal via decomposition and composition<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://openaccess.thecvf.com/content/WACV2022W/VAQ/html/Yan_RainGAN_Unsupervised_Raindrop_Removal_via_Decomposition_and_Composition_WACVW_2022_paper.html) | |
+|Dual attention-in-attention model for joint rain streak and raindrop removal<br><sub></sub> |  | 2021 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9527103/) | |
+|Adherent raindrop detection and removal in video<br><sub></sub> |  | 2013 | :video_camera: |  | [Paper](http://openaccess.thecvf.com/content_cvpr_2013/html/You_Adherent_Raindrop_Detection_2013_CVPR_paper.html) | |
+|Feature-aligned video raindrop removal with temporal constraints<br><sub></sub> |  | 2022 | :video_camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9769883/) | |
+|Dual-pixel raindrop removal<br><sub></sub> |  | 2024 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/10636073/) | |
+|Uncertainty guided multi-scale attention network for raindrop removal from a single image<br><sub></sub> |  | 2021 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9423583/) | |
+|Removing raindrops and rain streaks in one go<br><sub></sub> |  | 2021 | :camera: |  | [Paper](http://openaccess.thecvf.com/content/CVPR2021/html/Quan_Removing_Raindrops_and_Rain_Streaks_in_One_Go_CVPR_2021_paper.html) | |
+|STRRNet: Semantics-guided two-stage raindrop removal network<br><sub></sub> |  | 2025 | :camera: |  | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Rong_STRRNet_Semantics-guided_Two-stage_Raindrop_Removal_Network_CVPRW_2025_paper.html) | |
+|Uav-rain1k: A benchmark for raindrop removal from uav aerial imagery<br><sub></sub> |  | 2024 | :camera: |  | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/UG2/html/Chang_UAV-Rain1k_A_Benchmark_for_Raindrop_Removal_from_UAV_Aerial_Imagery_CVPRW_2024_paper.html) | |
+|Raindrop detection and removal from long range trajectories<br><sub></sub> |  | 2014 | :camera: |  | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-16808-1_38) | |
+|Raindrop detection and removal using salient visual features<br><sub></sub> |  | 2012 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/6467016/) | |
+|UnfairGAN: An enhanced generative adversarial network for raindrop removal from a single image<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417422013811) | |
+|Context and detail interaction network for stereo rain streak and raindrop removal<br><sub></sub> |  | 2023 | :camera: |  | [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023003702) | |
+|Joint raindrop and haze removal from a single image<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9222513/) | |
+|NTIRE 2025 challenge on day and night raindrop removal for dual-focused images: Methods and results<br><sub></sub> |  | 2025 | :camera: |  | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Li_NTIRE_2025_Challenge_on_Day_and_Night_Raindrop_Removal_for_CVPRW_2025_paper.html) | |
+|Selective generative adversarial network for raindrop removal from a single image<br><sub></sub> |  | 2021 | :camera: |  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231220315861) | |
+|Weakly supervised learning for raindrop removal on a single image<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9157928/) | |
+|A review of detection and removal of raindrops in automotive vision systems<br><sub></sub> |  | 2021 | :camera: |  | [Paper](https://www.mdpi.com/2313-433X/7/3/52) | |
+|Adherent raindrop removal with self-supervised attention maps and spatio-temporal generative adversarial networks<br><sub></sub> |  | 2019 | :camera: |  | [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/ADW/Alletto_Adherent_Raindrop_Removal_with_Self-Supervised_Attention_Maps_and_Spatio-Temporal_Generative_ICCVW_2019_paper.html) | |
+|Mask-guided progressive network for joint raindrop and rain streak removal in videos<br><sub></sub> |  | 2023 | :video_camera: |  | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612001) | |
+|Raindrop-removal image translation using target-mask network with attention module<br><sub></sub> |  | 2023 | :camera: |  | [Paper](https://www.mdpi.com/2227-7390/11/15/3318) | |
+|Raindrop removal with light field image using image inpainting<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9040628/) | |
+|Laplacian encoder-decoder network for raindrop removal<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://www.sciencedirect.com/science/article/pii/S0167865522001143) | |
+|Review on raindrop detection and removal in weather degraded images<br><sub></sub> |  | 2013 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/6588763/) | |
+|Raindrop removal from a single image using a two-step generative adversarial network<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://link.springer.com/article/10.1007/s11760-021-02007-z) | |
+|Removal of rain in video based on motion and shape characteristics of raindrops<br><sub></sub> |  | 2014 | :video_camera: |  | [Paper](https://www.sciencedirect.com/science/article/pii/S0030402614003362) | |
+|Adherent mist and raindrop removal from a single image using attentive convolutional network<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222008918) | |
+|Unsupervised Network for Single Image Raindrop Removal<br><sub></sub> |  | 2412 | :camera: |  | [Paper](https://arxiv.org/abs/2412.03019) | |
+|Robust attention deraining network for synchronous rain streaks and raindrops removal<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547932) | |
+|Removing raindrops from a single image using synthetic data<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9412888/) | |
+|A2Net: Adjacent Aggregation Networks for Image Raindrop Removal<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9045941/) | |
+|Detection and removal of rain from videos<br><sub></sub> |  | 2004 | :video_camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/1315077/) | |
+|A survey of single image rain removal based on deep learning<br><sub></sub> |  | 2023 | :camera: |  | [Paper](https://dl.acm.org/doi/abs/10.1145/3625818) | |
+|Single-image raindrop removal using concurrent channel-spatial attention and long-short skip connections<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://www.sciencedirect.com/science/article/pii/S0167865519303757) | |
+|Rain drop detection and removal using k-means clustering<br><sub></sub> |  | 2015 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/7435707/) | |
+|Improved sea-ice identification using semantic segmentation with raindrop removal<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9709781/) | |
+|All in one bad weather removal using architectural search<br><sub></sub> |  | 2020 | :camera: |  | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.html) | |
+|Detection and removal of raindrop from images using deeplearning<br><sub></sub> |  | 2019 | :camera: |  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-37218-7_142) | |
+|Raindrop Removal for In-Vehicle Camera Images with Generative Adversarial Network<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9945304/) | |
+|Iterative contrastive learning for single image raindrop removal<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9897979/) | |
+|Removal of rain from videos: a review<br><sub></sub> |  | 2014 | :video_camera: |  | [Paper](https://link.springer.com/article/10.1007/s11760-012-0373-6) | |
+|Image raindrop removal method for generative adversarial network based on difference learning<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/1544/1/012099/meta) | |
+|Single Image Raindrop Removal Using a Non-Local Operator and Feature Maps in the Frequency Domain<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9869812/) | |
+|Deep learning for seeing through window with raindrops<br><sub></sub> |  | 2019 | :camera: |  | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Quan_Deep_Learning_for_Seeing_Through_Window_With_Raindrops_ICCV_2019_paper.html) | |
+|Raindrop Removal using Image Inpainting<br><sub></sub> |  | 2023 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/10220866/) | |
+|Mutual channel prior guided dual-domain interaction network for single image raindrop removal<br><sub></sub> |  | 2023 | :camera: |  | [Paper](https://www.sciencedirect.com/science/article/pii/S0097849323000432) | |
+|Recovering raindrop removal images under heavy rain.<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://www.scitepress.org/Papers/2020/93256/93256.pdf) | |
+|X-net for single image raindrop removal<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9191073/) | |
+|Removing rain and snow in a single image using guided filter<br><sub></sub> |  | 2012 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/6272780/) | |
+|Not All Areas Are Equal: A Novel Separation‐Restoration‐Fusion Network for Image Raindrop Removal<br><sub></sub> |  | 2020 | :camera: |  | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14162) | |
+|RIADNet: single image deraining network for raindrops and rain streaks removal<br><sub></sub> |  | 2025 | :camera: |  | [Paper](https://link.springer.com/article/10.1007/s10994-025-06854-6) | |
+|An Image Raindrop Removal Method Based on Squeeze-Excitation and Residual Fusion<br><sub></sub> |  | 2024 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/10545865/) | |
+|A dual CNN architecture for single image raindrop and rain streak removal<br><sub></sub> |  | 2022 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/9993091/) | |
+|Raindrop‐impact‐induced erosion processes and prediction: a review<br><sub></sub> |  | 2005 | :camera: |  | [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/hyp.5788) | |
+|Cycle-spinning gan for raindrop removal from images<br><sub></sub> |  | 2019 | :camera: |  | [Paper](https://ieeexplore.ieee.org/abstract/document/8909824/) | |
+|Application research on improved CGAN in image raindrop removal<br><sub></sub> |  | 2019 | :camera: |  | [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/joe.2019.1092) | |
+
 </details>
 
 ## :snowflake: Snow Removal / Desnowing / De-snowing
