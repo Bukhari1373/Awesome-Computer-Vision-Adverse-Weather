@@ -56,7 +56,7 @@ The survey on the computer vision works under the adverse weather conditions
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [:droplet: Raindrop Removal](#droplet-raindrop-removal)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [:snowflake: Snow Removal / Desnowing / De-snowing](#snowflake-snow-removal--desnowing--de-snowing)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [All-in-One (AiO) Adverse Weather Removal](#all-in-one-aio-adverse-weather-removal)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [Image Synthesis](#image-synthesis)
+  
 - **[High-level Vision](#high-level-vision)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Object Detection](#object-detection)
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Semantic Segmentation](#semantic-segmentation)
@@ -125,15 +125,6 @@ The survey on the computer vision works under the adverse weather conditions
 | All in One Bad Weather Removal Using Architectural Search<br><sub>Ruoteng Li, Robby T. Tan, Loong-Fah Cheong</sub> | CVPR | 2020 | :camera: | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) |  |
 </details>
 
-## Image Synthesis 
-
-<details open="true">
-<summary><strong>Paper List</strong> (click to expand) </summary>
-  
-| Paper | Venue | Year | Weather | Data | Link | Code |
-|-------|-------|------|---------|------|------|------|
-|Let it Snow: On the Synthesis of Adverse Weather Image Data<br><sub>Thomas Rothmeier; Werner Huber</sub> | ITSC | 2021 | 🌫️🌧️❄️ | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/9565008) | |
-</details>
 
 
 
@@ -150,6 +141,7 @@ The survey on the computer vision works under the adverse weather conditions
 | Detection-Friendly Dehazing: Object Detection in Real-World Hazy Scenes<br><sub>Chengyang Li; Heng Zhou; Yang Liu; Caidong Yang; Yongqiang Xie; Zhongbo Li</sub> | TPAMI | 2023 | Haze | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/10012056) | 
 | Unified Density-Aware Image Dehazing and Object Detection in Real-World Hazy Scenes<br><sub>Zhengxi Zhang⋆, Liang Zhao⋆, Yunan Liu, Shanshan Zhang, Jian Yan</sub> | ACCV | 2020 | Haze | :camera: | [Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_Unified_Density-Aware_Image_Dehazing_and_Object_Detection_in_Real-World_Hazy_ACCV_2020_paper.pdf) | [Code](https://github.com/xiqi98/UDnD) |
 |HazyDet: Open-Source Benchmark for Drone-View Object Detection with Depth-Cues in Hazy Scenes<br><sub>Changfeng Feng, Zhenyuan Chen, Xiang Li, Chunping Wang, Jian Yang, Ming-Ming Cheng, Yimian Dai, Qiang Fu</sub> | ArXiv | 2024 | Haze | 📷 :bar_chart: | [Paper](https://arxiv.org/abs/2409.19833) | [Code](https://github.com/GrokCV/HazyDet) |
+|Rain Rendering for Evaluating and Improving Robustness to Bad Weather<br><sub>Maxime Tremblay, Shirsendu Sukanta Halder, Raoul de Charette & Jean-François Lalonde</sub> | IJCV | 2020 | 🌧️ | 📷 | [Paper](https://link.springer.com/article/10.1007/s11263-020-01366-3) | [Code](https://github.com/astra-vision/rain-rendering) |
 </details>
 
 ## Semantic Segmentation
@@ -159,6 +151,7 @@ The survey on the computer vision works under the adverse weather conditions
   
 | Paper | Venue | Year | Weather | Data | Link | Code |
 |-------|-------|------|---------|------|------|------|
+|Rain Rendering for Evaluating and Improving Robustness to Bad Weather<br><sub>Maxime Tremblay, Shirsendu Sukanta Halder, Raoul de Charette & Jean-François Lalonde</sub> | IJCV | 2020 | 🌧️ | 📷 | [Paper](https://link.springer.com/article/10.1007/s11263-020-01366-3) | [Code](https://github.com/astra-vision/rain-rendering) |
 </details>
 
 ## Object Tracking
@@ -199,6 +192,7 @@ The survey on the computer vision works under the adverse weather conditions
 |Depth from phasor distortions in fog<br><sub>Takeshi Muraji, Kenichiro Tanaka, Takuya Funatomi, Yasuhiro Mukaigawa</sub> | Optics Express| 2019 | :fog: | 📷 | [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-13-18858&id=414675) | [Code]() |
 |Gated2Gated: Self-Supervised Depth Estimation from Gated Images<br><sub>Amanpreet Walia, Stefanie Walz, Mario Bijelic, Fahim Mannan, Frank Julca-Aguilar, Michael Langer, Werner Ritter, Felix Heide</sub> | CVPR | 2022 | :fog:❄️ | 📷 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Walia_Gated2Gated_Self-Supervised_Depth_Estimation_From_Gated_Images_CVPR_2022_paper.html) | [Code](https://github.com/princeton-computational-imaging/Gated2Gated) |
 |<br><sub></sub> | | | | | [Paper]() | [Code]() |
+|Rain Rendering for Evaluating and Improving Robustness to Bad Weather<br><sub>Maxime Tremblay, Shirsendu Sukanta Halder, Raoul de Charette & Jean-François Lalonde</sub> | IJCV | 2020 | 🌧️ | 📷 | [Paper](https://link.springer.com/article/10.1007/s11263-020-01366-3) | [Code](https://github.com/astra-vision/rain-rendering) |
 |Robust Monocular Depth Estimation under Challenging Conditions<br><sub>Stefano Gasperini, Nils Morbitzer, HyunJun Jung, Nassir Navab, Federico Tombari</sub> | ICCV | 2023 | 🌧️🌃 | 📷 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gasperini_Robust_Monocular_Depth_Estimation_under_Challenging_Conditions_ICCV_2023_paper.html) | [Code](https://md4all.github.io) |
 |Empirical Study: Monocular Depth Estimation from RGB, NIR, Thermal Image in Adverse Weather Conditions<br><sub>Ukcheol Shin; Soonmin Hwang; Jean Oh</sub> | ICTC | 2023 | 🌧️❄️🌃 | | [Paper](https://ieeexplore.ieee.org/abstract/document/10393306) | |
 </details>
