@@ -74,7 +74,7 @@ The survey on the computer vision works under the adverse weather conditions
 | Paper | Venue | Year | Data | Link | Code |
 |-------|-------|------|------|------|------|
 |A comprehensive review of computational dehazing techniques<br><sub></sub> | ARCME | 2018 | :camera: | [Paper](https://search.proquest.com/openview/678da16cd4b56253ac84ca71f505366e/1?pq-origsite=gscholar&cbl=1486352) | |
-
+|A survey on all-in-one image restoration: Taxonomy, evaluation and future trends<br><sub></sub> | TPAMI | 2025 | :camera: | [Paper](https://ieeexplore.ieee.org/abstract/document/11123156/) | [Code](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) |
 
 # Low-level Vision
 
